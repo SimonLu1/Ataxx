@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cpsc2150.extendedAtaxx.models"},{"l":"cpsc2150.extendedAtaxx.tests"},{"l":"cpsc2150.extendedAtaxx.views"}];updateSearchResults();

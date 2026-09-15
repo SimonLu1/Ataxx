@@ -1,4 +1,4 @@
-# CPSC2150 - Ataxx - Spring 2026
+# Ataxx 
 
 Developers:
 
